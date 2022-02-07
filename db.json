@@ -1,0 +1,49 @@
+{
+  "games": [
+    {
+      "gamename": "Titanfall",
+      "gameauthor": "Respawn",
+      "gameprice": "1299",
+      "gametags": "FPS",
+      "forkids": true,
+      "gamedesc": "Titanfall is a series of video games that mainly feature first-person shooter games",
+      "gamerating": "5",
+      "id": 1
+    },
+    {
+      "status": false,
+      "title": "",
+      "id": 2
+    },
+    {
+      "gamename": "nikit",
+      "gameauthor": "dss",
+      "gametags": "dssd",
+      "gameprice": "sdds",
+      "forkids": "ds",
+      "gamedesc": "sd",
+      "gamerating": "5",
+      "id": 3
+    },
+    {
+      "gamename": "aradhana",
+      "gameauthor": "aditya",
+      "gametags": "dssd",
+      "gameprice": "700",
+      "forkids": "ds",
+      "gamedesc": "jjitne mein hi maza h",
+      "gamerating": "5",
+      "id": 4
+    },
+    {
+      "gamename": "sdsd",
+      "gameauthor": "vfxv",
+      "gametags": "vv",
+      "gameprice": "800",
+      "forkids": "ddfr",
+      "gamedesc": "tryry",
+      "gamerating": "5",
+      "id": 5
+    }
+  ]
+}

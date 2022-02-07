@@ -1,0 +1,81 @@
+body {
+  background-image: linear-gradient(rgb(253, 217, 223), cyan);
+}
+
+.form {
+  border: 1px solid cyan;
+  height: 600px;
+  width: 700px;
+  margin: auto;
+  border-radius: 7px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-top: 2%;
+  background-image: linear-gradient(pink, cyan);
+}
+
+#mainbox > .box {
+  border: none;
+  border-radius: 7px;
+
+  margin-left: 200px;
+  height: 40px;
+  box-shadow: rgba(221, 232, 11, 0.35) 0px 5px 15px;
+  margin-top: 2%;
+}
+
+#mainbox > #chk {
+  border-radius: 7px;
+  box-shadow: rgba(221, 232, 11, 0.35) 0px 5px 15px;
+  margin-top: 2%;
+}
+
+select {
+  border: none;
+  border-radius: 7px;
+  margin-left: 200px;
+  height: 40px;
+  box-shadow: rgba(221, 232, 11, 0.35) 0px 5px 15px;
+  margin-top: 2%;
+  width: 170px;
+}
+.sub {
+  border: none;
+  border-radius: 7px;
+  margin-left: 200px;
+  height: 40px;
+  box-shadow: rgba(221, 232, 11, 0.35) 0px 5px 15px;
+  margin-top: 2%;
+  width: 170px;
+}
+#text {
+  color: rgb(232, 88, 112);
+  margin-left: 160px;
+  font-size: 30px;
+}
+table {
+  margin-top: 3%;
+  margin: auto;
+}
+.btn {
+  margin-left: 750px;
+  margin-bottom: 1%;
+  height: 30px;
+  width: 150px;
+  background-image: linear-gradient(pink, cyan);
+  border-radius: 7px;
+  box-shadow: rgba(14, 14, 13, 0.35) 0px 5px 15px;
+}
+.btn2 {
+  margin-bottom: 1%;
+  height: 30px;
+  width: 150px;
+  background-image: linear-gradient(pink, cyan);
+  border-radius: 7px;
+  box-shadow: rgba(14, 14, 13, 0.35) 0px 5px 15px;
+}
+
+table {
+  background-image: linear-gradient(pink, cyan);
+  border-radius: 7px;
+  box-shadow: rgba(14, 14, 13, 0.35) 0px 5px 15px;
+}
